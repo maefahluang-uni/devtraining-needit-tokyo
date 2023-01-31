@@ -52,7 +52,7 @@
         <push_message_only>false</push_message_only>
         <recipient_fields>assigned_to</recipient_fields>
         <recipient_groups/>
-        <recipient_users/>
+        <recipient_users>film.1445@gmail.com,r6xam0+7fblm79zg0n14@sharklasers.com,voewmjrr@sharklasers.com,voewmjrr@guerrillamail.com,dev146587@service-now.com</recipient_users>
         <reply_to/>
         <send_self>true</send_self>
         <sms_alternate/>

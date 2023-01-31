@@ -4,7 +4,7 @@
         <active>true</active>
         <assignment_operator/>
         <condition_script>email.subject.toLowerCase().indexOf('overdue needit task')&gt;=0</condition_script>
-        <description/>
+        <description>test inbound email</description>
         <event_name>email.read</event_name>
         <filter_condition/>
         <from/>
