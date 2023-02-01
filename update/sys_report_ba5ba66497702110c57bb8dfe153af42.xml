@@ -57,7 +57,7 @@
         <interval>year</interval>
         <is_published>true</is_published>
         <is_real_time>false</is_real_time>
-        <is_scheduled>false</is_scheduled>
+        <is_scheduled>true</is_scheduled>
         <legend_align_columns>true</legend_align_columns>
         <legend_background_color/>
         <legend_border_color/>
